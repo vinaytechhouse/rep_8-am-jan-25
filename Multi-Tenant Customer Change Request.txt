@@ -1,6 +1,7 @@
 Customer expected two major changes in the customer segmentation page.
+Limited changes.
 
-a) Visuals interaction
+a) Visuals interaction:
 
 	Need Top Client, Mid Client, Low client  buttons and display respective group content based on the button click.
 
@@ -8,7 +9,7 @@ a) Visuals interaction
 	When we click Mid clients button: Mid client button should be orange, Top-Green, Low-Green,  hide top and low groups
 	When we click Low clients button: Low client button should be Orange, Top-Green, Mid-Green, hide top and mid groups
 
-b) Customer Selection Display
+b) Customer Selection Display:
 
 	Display customers selected, years selected, and quarters selected in a card visual with the below protocol.
 	Customers selected with comma separation
