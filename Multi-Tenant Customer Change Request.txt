@@ -1,0 +1,23 @@
+Customer expected two major changes in the customer segmentation page.
+
+a) Visuals interaction
+
+	Need Top Client, Mid Client, Low client  buttons and display respective group content based on the button click.
+
+	When we click Top clients button: Top client button should be Orange, Mid -Green, Low- Green, hide mid and low groups
+	When we click Mid clients button: Mid client button should be orange, Top-Green, Low-Green,  hide top and low groups
+	When we click Low clients button: Low client button should be Orange, Top-Green, Mid-Green, hide top and mid groups
+
+b) Customer Selection Display
+
+	Display customers selected, years selected, and quarters selected in a card visual with the below protocol.
+	Customers selected with comma separation
+	Years selected with comma separation
+	Quarters selected with comma separation
+	Also Customers list, Years list, and Quarters list should separate with "|"
+	Ex: 
+	Apollo, Bare | 2014, 2016 | Q1, Q4
+
+c) Cross Report Drill through Operation from Customer Data Trend and Customer Profitability to Customer Segmentation 
+
+
